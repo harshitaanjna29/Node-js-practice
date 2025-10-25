@@ -17,3 +17,9 @@ button.emit("click");
 
 
 console.log("event handling complete")
+
+//An event is a signal that something has happened.
+// For example:
+// A file has finished reading.
+// A user connected to a server.
+// A timer has completed.
