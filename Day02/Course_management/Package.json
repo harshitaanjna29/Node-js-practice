@@ -1,0 +1,11 @@
+{
+  "name": "course-management-system",
+  "version": "1.0.0",
+  "description": "A simple course management system using Node.js and HTML",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Harshit Anjana",
+  "license": "MIT"
+}
